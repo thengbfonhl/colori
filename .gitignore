@@ -1,0 +1,30 @@
+node_modules/
+.expo/
+dist/
+web-build/
+ios/
+android/
+*.apk
+*.aab
+*.ipa
+coverage/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+google-services.json
+GoogleService-Info.plist
+.DS_Store
+
+# Artwork pipeline debug output (F01), never shipped
+content-out/
+
+# Local-only: project docs and Claude Code files (not pushed)
+docs/
+CLAUDE.md
+.claude/

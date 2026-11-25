@@ -1,0 +1,19 @@
+{
+  "$comment": "Tham số pipeline tranh (docs/features/F01). Đổi giá trị nào thì chạy lại `npm run art:build`. minAreaRatio: nhỏ hơn thì là vùng tuỳ chọn (tô được, không tính %). noiseAreaRatio: nhỏ hơn thì là đốm nhiễu, gộp vào nét. sliverRadius (px ở ảnh 1024): vùng mà chỗ dày nhất chưa tới 2×sliverRadius là khe mảnh giữa 2 nét, cũng gộp vào nét để ăn màu vùng bên cạnh. Ghi đè riêng 1 tranh: \"overrides\": { \"<id>\": { \"closeRadius\": 3 } }",
+  "threshold": 0.5,
+  "closeRadius": 2,
+  "minAreaRatio": { "easy": 0.0015, "medium": 0.0005 },
+  "noiseAreaRatio": 0.00002,
+  "sliverRadius": 3,
+  "regionMapSize": 1024,
+  "lineMaxSize": 2048,
+  "thumbSize": 384,
+  "lineAlpha": { "low": 0.12, "high": 0.75 },
+  "minSourceSize": 1024,
+  "maxAspectDiff": 0.02,
+  "regionCountRange": { "easy": [10, 35], "medium": [30, 90] },
+  "maxBackgroundRatio": 0.7,
+  "grayBlobRatio": 0.003,
+  "maxTotalMB": 40,
+  "overrides": {}
+}

@@ -1,0 +1,1410 @@
+[
+  {
+    "id": "animals-cat-easy",
+    "title": {
+      "vi": "Mèo con",
+      "en": "Kitten"
+    },
+    "category": "animals",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 9,
+    "optionalRegionCount": 5,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 1
+  },
+  {
+    "id": "animals-elephant-medium",
+    "title": {
+      "vi": "Voi con nghịch nước",
+      "en": "Playful Baby Elephant"
+    },
+    "category": "animals",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 31,
+    "optionalRegionCount": 70,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 2
+  },
+  {
+    "id": "sea-whale-easy",
+    "title": {
+      "vi": "Cá voi",
+      "en": "Whale"
+    },
+    "category": "sea",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 15,
+    "optionalRegionCount": 4,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 3
+  },
+  {
+    "id": "sea-coral-reef-medium",
+    "title": {
+      "vi": "Rùa biển và san hô",
+      "en": "Turtle and Coral Reef"
+    },
+    "category": "sea",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 109,
+    "optionalRegionCount": 113,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 4
+  },
+  {
+    "id": "vehicles-car-easy",
+    "title": {
+      "vi": "Ô tô nhỏ",
+      "en": "Little Car"
+    },
+    "category": "vehicles",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 24,
+    "optionalRegionCount": 8,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 5
+  },
+  {
+    "id": "vehicles-train-medium",
+    "title": {
+      "vi": "Tàu hoả",
+      "en": "Steam Train"
+    },
+    "category": "vehicles",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 138,
+    "optionalRegionCount": 127,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 6
+  },
+  {
+    "id": "sweets-cupcake-easy",
+    "title": {
+      "vi": "Bánh cupcake",
+      "en": "Cupcake"
+    },
+    "category": "sweets",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 14,
+    "optionalRegionCount": 11,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 7
+  },
+  {
+    "id": "dinosaurs-dino-easy",
+    "title": {
+      "vi": "Khủng long con",
+      "en": "Baby Dinosaur"
+    },
+    "category": "dinosaurs",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 21,
+    "optionalRegionCount": 19,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 8
+  },
+  {
+    "id": "fairytale-castle-medium",
+    "title": {
+      "vi": "Lâu đài cổ tích",
+      "en": "Fairy-tale Castle"
+    },
+    "category": "fairytale",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 96,
+    "optionalRegionCount": 194,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 9
+  },
+  {
+    "id": "nature-flower-easy",
+    "title": {
+      "vi": "Hoa hướng dương",
+      "en": "Sunflower"
+    },
+    "category": "nature",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 27,
+    "optionalRegionCount": 4,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 10
+  },
+  {
+    "id": "vietnam-lantern-easy",
+    "title": {
+      "vi": "Đèn ông sao",
+      "en": "Star Lantern"
+    },
+    "category": "vietnam",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 41,
+    "optionalRegionCount": 4,
+    "backgroundRegion": 14,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 11
+  },
+  {
+    "id": "vietnam-tet-medium",
+    "title": {
+      "vi": "Bé đón Tết",
+      "en": "Celebrating Tet"
+    },
+    "category": "vietnam",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 106,
+    "optionalRegionCount": 209,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 12
+  },
+  {
+    "id": "animals-bee-easy",
+    "title": {
+      "vi": "Ong nhỏ",
+      "en": "Little Bee"
+    },
+    "category": "animals",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 16,
+    "optionalRegionCount": 12,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 13
+  },
+  {
+    "id": "animals-butterfly-medium",
+    "title": {
+      "vi": "Bươm bướm",
+      "en": "Butterfly"
+    },
+    "category": "animals",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 112,
+    "optionalRegionCount": 61,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 14
+  },
+  {
+    "id": "animals-chicken-medium",
+    "title": {
+      "vi": "Gà con",
+      "en": "Chicken"
+    },
+    "category": "animals",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 96,
+    "optionalRegionCount": 84,
+    "backgroundRegion": 77,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 15
+  },
+  {
+    "id": "animals-cow-easy",
+    "title": {
+      "vi": "Bò sữa",
+      "en": "Cow"
+    },
+    "category": "animals",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 23,
+    "optionalRegionCount": 12,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 16
+  },
+  {
+    "id": "animals-duck-easy",
+    "title": {
+      "vi": "Vịt con",
+      "en": "Duckling"
+    },
+    "category": "animals",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 7,
+    "optionalRegionCount": 2,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 17
+  },
+  {
+    "id": "animals-elephant-easy",
+    "title": {
+      "vi": "Voi con",
+      "en": "Baby Elephant"
+    },
+    "category": "animals",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 9,
+    "optionalRegionCount": 21,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 18
+  },
+  {
+    "id": "animals-fox-medium",
+    "title": {
+      "vi": "Cáo nhỏ",
+      "en": "Little Fox"
+    },
+    "category": "animals",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 55,
+    "optionalRegionCount": 20,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 19
+  },
+  {
+    "id": "animals-frog-medium",
+    "title": {
+      "vi": "Ếch xanh",
+      "en": "Frog"
+    },
+    "category": "animals",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 76,
+    "optionalRegionCount": 21,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 20
+  },
+  {
+    "id": "animals-giraffe-easy",
+    "title": {
+      "vi": "Hươu cao cổ",
+      "en": "Giraffe"
+    },
+    "category": "animals",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 24,
+    "optionalRegionCount": 5,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 21
+  },
+  {
+    "id": "animals-horse-easy",
+    "title": {
+      "vi": "Ngựa con",
+      "en": "Pony"
+    },
+    "category": "animals",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 23,
+    "optionalRegionCount": 5,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 22
+  },
+  {
+    "id": "animals-lion-easy",
+    "title": {
+      "vi": "Sư tử",
+      "en": "Lion"
+    },
+    "category": "animals",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 10,
+    "optionalRegionCount": 7,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 23
+  },
+  {
+    "id": "animals-monkey-easy",
+    "title": {
+      "vi": "Khỉ con",
+      "en": "Little Monkey"
+    },
+    "category": "animals",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 19,
+    "optionalRegionCount": 10,
+    "backgroundRegion": 3,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 24
+  },
+  {
+    "id": "animals-owl-medium",
+    "title": {
+      "vi": "Cú mèo",
+      "en": "Owl"
+    },
+    "category": "animals",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 55,
+    "optionalRegionCount": 40,
+    "backgroundRegion": 2,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 25
+  },
+  {
+    "id": "animals-panda-easy",
+    "title": {
+      "vi": "Gấu trúc",
+      "en": "Panda"
+    },
+    "category": "animals",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 21,
+    "optionalRegionCount": 14,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 26
+  },
+  {
+    "id": "animals-pig-easy",
+    "title": {
+      "vi": "Heo con",
+      "en": "Piglet"
+    },
+    "category": "animals",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 14,
+    "optionalRegionCount": 14,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 27
+  },
+  {
+    "id": "animals-puppy-easy",
+    "title": {
+      "vi": "Cún con",
+      "en": "Puppy"
+    },
+    "category": "animals",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 13,
+    "optionalRegionCount": 5,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 28
+  },
+  {
+    "id": "animals-rabbit-easy",
+    "title": {
+      "vi": "Thỏ con",
+      "en": "Bunny"
+    },
+    "category": "animals",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 8,
+    "optionalRegionCount": 8,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 29
+  },
+  {
+    "id": "animals-turtle-medium",
+    "title": {
+      "vi": "Rùa con",
+      "en": "Little Turtle"
+    },
+    "category": "animals",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 58,
+    "optionalRegionCount": 64,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 30
+  },
+  {
+    "id": "sea-clownfish-easy",
+    "title": {
+      "vi": "Cá hề",
+      "en": "Clownfish"
+    },
+    "category": "sea",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 26,
+    "optionalRegionCount": 15,
+    "backgroundRegion": 7,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 31
+  },
+  {
+    "id": "sea-clownfish-medium",
+    "title": {
+      "vi": "Cá hề",
+      "en": "Clownfish"
+    },
+    "category": "sea",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 76,
+    "optionalRegionCount": 39,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 32
+  },
+  {
+    "id": "sea-coral-reef-2-medium",
+    "title": {
+      "vi": "Rạn san hô",
+      "en": "Coral Reef"
+    },
+    "category": "sea",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 89,
+    "optionalRegionCount": 119,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 33
+  },
+  {
+    "id": "sea-coral-reef-easy",
+    "title": {
+      "vi": "Rạn san hô",
+      "en": "Coral Reef"
+    },
+    "category": "sea",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 15,
+    "optionalRegionCount": 6,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 34
+  },
+  {
+    "id": "sea-crab-medium",
+    "title": {
+      "vi": "Cua biển",
+      "en": "Crab"
+    },
+    "category": "sea",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 74,
+    "optionalRegionCount": 51,
+    "backgroundRegion": 19,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 35
+  },
+  {
+    "id": "sea-dolphin-easy",
+    "title": {
+      "vi": "Cá heo",
+      "en": "Dolphin"
+    },
+    "category": "sea",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 6,
+    "optionalRegionCount": 5,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 36
+  },
+  {
+    "id": "sea-dolphin-medium",
+    "title": {
+      "vi": "Cá heo",
+      "en": "Dolphin"
+    },
+    "category": "sea",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 18,
+    "optionalRegionCount": 29,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 37
+  },
+  {
+    "id": "sea-octopus-easy",
+    "title": {
+      "vi": "Bạch tuộc",
+      "en": "Octopus"
+    },
+    "category": "sea",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 7,
+    "optionalRegionCount": 97,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 38
+  },
+  {
+    "id": "sea-octopus-medium",
+    "title": {
+      "vi": "Bạch tuộc",
+      "en": "Octopus"
+    },
+    "category": "sea",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 45,
+    "optionalRegionCount": 158,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 39
+  },
+  {
+    "id": "sea-seahorse-easy",
+    "title": {
+      "vi": "Cá ngựa",
+      "en": "Seahorse"
+    },
+    "category": "sea",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 12,
+    "optionalRegionCount": 3,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 40
+  },
+  {
+    "id": "sea-seahorse-medium",
+    "title": {
+      "vi": "Cá ngựa",
+      "en": "Seahorse"
+    },
+    "category": "sea",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 72,
+    "optionalRegionCount": 73,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 41
+  },
+  {
+    "id": "sea-shark-easy",
+    "title": {
+      "vi": "Cá mập",
+      "en": "Shark"
+    },
+    "category": "sea",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 7,
+    "optionalRegionCount": 8,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 42
+  },
+  {
+    "id": "sea-shell-medium",
+    "title": {
+      "vi": "Vỏ sò",
+      "en": "Seashells"
+    },
+    "category": "sea",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 39,
+    "optionalRegionCount": 28,
+    "backgroundRegion": 9,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 43
+  },
+  {
+    "id": "sea-starfish-easy",
+    "title": {
+      "vi": "Sao biển",
+      "en": "Starfish"
+    },
+    "category": "sea",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 19,
+    "optionalRegionCount": 10,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 44
+  },
+  {
+    "id": "sea-starfish-medium",
+    "title": {
+      "vi": "Sao biển",
+      "en": "Starfish"
+    },
+    "category": "sea",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 71,
+    "optionalRegionCount": 66,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 45
+  },
+  {
+    "id": "sea-submarine-easy",
+    "title": {
+      "vi": "Tàu ngầm",
+      "en": "Submarine"
+    },
+    "category": "sea",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 24,
+    "optionalRegionCount": 5,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 46
+  },
+  {
+    "id": "vehicles-airplane-easy",
+    "title": {
+      "vi": "Máy bay",
+      "en": "Airplane"
+    },
+    "category": "vehicles",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 28,
+    "optionalRegionCount": 16,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 47
+  },
+  {
+    "id": "vehicles-airplane-medium",
+    "title": {
+      "vi": "Máy bay",
+      "en": "Airplane"
+    },
+    "category": "vehicles",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 46,
+    "optionalRegionCount": 23,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 48
+  },
+  {
+    "id": "vehicles-ambulance-easy",
+    "title": {
+      "vi": "Xe cứu thương",
+      "en": "Ambulance"
+    },
+    "category": "vehicles",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 25,
+    "optionalRegionCount": 16,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 49
+  },
+  {
+    "id": "vehicles-ambulance-medium",
+    "title": {
+      "vi": "Xe cứu thương",
+      "en": "Ambulance"
+    },
+    "category": "vehicles",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 97,
+    "optionalRegionCount": 50,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 50
+  },
+  {
+    "id": "vehicles-boat-easy",
+    "title": {
+      "vi": "Thuyền",
+      "en": "Boat"
+    },
+    "category": "vehicles",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 18,
+    "optionalRegionCount": 4,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 51
+  },
+  {
+    "id": "vehicles-boat-medium",
+    "title": {
+      "vi": "Thuyền",
+      "en": "Boat"
+    },
+    "category": "vehicles",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 58,
+    "optionalRegionCount": 71,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 52
+  },
+  {
+    "id": "vehicles-bus-easy",
+    "title": {
+      "vi": "Xe buýt",
+      "en": "Bus"
+    },
+    "category": "vehicles",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 30,
+    "optionalRegionCount": 16,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 53
+  },
+  {
+    "id": "vehicles-car-medium",
+    "title": {
+      "vi": "Ô tô",
+      "en": "Car"
+    },
+    "category": "vehicles",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 74,
+    "optionalRegionCount": 96,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 54
+  },
+  {
+    "id": "vehicles-fire-truck-easy",
+    "title": {
+      "vi": "Xe cứu hoả",
+      "en": "Fire Truck"
+    },
+    "category": "vehicles",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 40,
+    "optionalRegionCount": 40,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 55
+  },
+  {
+    "id": "vehicles-fire-truck-medium",
+    "title": {
+      "vi": "Xe cứu hoả",
+      "en": "Fire Truck"
+    },
+    "category": "vehicles",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 102,
+    "optionalRegionCount": 172,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 56
+  },
+  {
+    "id": "vehicles-helicopter-easy",
+    "title": {
+      "vi": "Trực thăng",
+      "en": "Helicopter"
+    },
+    "category": "vehicles",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 21,
+    "optionalRegionCount": 16,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 57
+  },
+  {
+    "id": "vehicles-helicopter-medium",
+    "title": {
+      "vi": "Trực thăng",
+      "en": "Helicopter"
+    },
+    "category": "vehicles",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 54,
+    "optionalRegionCount": 23,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 58
+  },
+  {
+    "id": "vehicles-motorbike-easy",
+    "title": {
+      "vi": "Xe máy",
+      "en": "Motorbike"
+    },
+    "category": "vehicles",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 32,
+    "optionalRegionCount": 27,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 59
+  },
+  {
+    "id": "vehicles-motorbike-medium",
+    "title": {
+      "vi": "Xe máy",
+      "en": "Motorbike"
+    },
+    "category": "vehicles",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 117,
+    "optionalRegionCount": 116,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 60
+  },
+  {
+    "id": "vehicles-rocket-easy",
+    "title": {
+      "vi": "Tên lửa",
+      "en": "Rocket"
+    },
+    "category": "vehicles",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 14,
+    "optionalRegionCount": 7,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 61
+  },
+  {
+    "id": "vehicles-rocket-medium",
+    "title": {
+      "vi": "Tên lửa",
+      "en": "Rocket"
+    },
+    "category": "vehicles",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 70,
+    "optionalRegionCount": 23,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 62
+  },
+  {
+    "id": "vehicles-tractor-easy",
+    "title": {
+      "vi": "Máy cày",
+      "en": "Tractor"
+    },
+    "category": "vehicles",
+    "level": "easy",
+    "audience": "kids",
+    "regionCount": 31,
+    "optionalRegionCount": 22,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 63
+  },
+  {
+    "id": "vehicles-tractor-medium",
+    "title": {
+      "vi": "Máy cày",
+      "en": "Tractor"
+    },
+    "category": "vehicles",
+    "level": "medium",
+    "audience": "kids",
+    "regionCount": 131,
+    "optionalRegionCount": 140,
+    "backgroundRegion": 1,
+    "size": {
+      "line": 2048,
+      "regions": 1024
+    },
+    "source": {
+      "type": "ai-placeholder",
+      "ref": "Gemini (gói: Google AI Pro)"
+    },
+    "order": 64
+  }
+]

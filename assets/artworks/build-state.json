@@ -1,0 +1,751 @@
+{
+  "pipelineVersion": 4,
+  "items": {
+    "animals-cat-easy": {
+      "hash": "83b8164a3eb6ef2422c86af8874e5e19417147c4",
+      "regionCount": 9,
+      "backgroundRegion": 1,
+      "bgRatio": 0.3914,
+      "optionalRegionCount": 5,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "9 vùng, ngoài khoảng 10–35 của mức easy"
+      ],
+      "ms": 0
+    },
+    "animals-elephant-medium": {
+      "hash": "bcbf113a9e6c0eb33a415c2aa2ee1c71038b9c6d",
+      "regionCount": 31,
+      "backgroundRegion": 1,
+      "bgRatio": 0.2519,
+      "optionalRegionCount": 70,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 0
+    },
+    "sea-whale-easy": {
+      "hash": "c8d7ea2af0fe8a31eebebc0a1a9864269546dddd",
+      "regionCount": 15,
+      "backgroundRegion": 1,
+      "bgRatio": 0.2901,
+      "optionalRegionCount": 4,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 0
+    },
+    "sea-coral-reef-medium": {
+      "hash": "2d8fb25f7db4a269aacb84154a1193aa2c833cf8",
+      "regionCount": 109,
+      "backgroundRegion": 1,
+      "bgRatio": 0.4379,
+      "optionalRegionCount": 113,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "109 vùng, ngoài khoảng 30–90 của mức medium"
+      ],
+      "ms": 0
+    },
+    "vehicles-car-easy": {
+      "hash": "36739b03bfea7a86e502e94f65c2bd90b6d2ee92",
+      "regionCount": 24,
+      "backgroundRegion": 1,
+      "bgRatio": 0.3203,
+      "optionalRegionCount": 8,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 0
+    },
+    "vehicles-train-medium": {
+      "hash": "c598c510d7766d4d9f45572dc9800d5d572aad6b",
+      "regionCount": 138,
+      "backgroundRegion": 1,
+      "bgRatio": 0.2006,
+      "optionalRegionCount": 127,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "138 vùng, ngoài khoảng 30–90 của mức medium"
+      ],
+      "ms": 0
+    },
+    "sweets-cupcake-easy": {
+      "hash": "a1c65562c365951f8b3f3ca7e838f91d4aa866e9",
+      "regionCount": 14,
+      "backgroundRegion": 1,
+      "bgRatio": 0.406,
+      "optionalRegionCount": 11,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 0
+    },
+    "dinosaurs-dino-easy": {
+      "hash": "77c101f9db733c1475eb4cc2b392df14701eac02",
+      "regionCount": 21,
+      "backgroundRegion": 1,
+      "bgRatio": 0.282,
+      "optionalRegionCount": 19,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 0
+    },
+    "fairytale-castle-medium": {
+      "hash": "5c24da2fd68be1df3ca7bc963d3b0dac53f67885",
+      "regionCount": 96,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5255,
+      "optionalRegionCount": 194,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "96 vùng, ngoài khoảng 30–90 của mức medium"
+      ],
+      "ms": 0
+    },
+    "nature-flower-easy": {
+      "hash": "d401757c7f5bdf021e0592b0aae6865bf81ae8e1",
+      "regionCount": 27,
+      "backgroundRegion": 1,
+      "bgRatio": 0.2351,
+      "optionalRegionCount": 4,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 0
+    },
+    "vietnam-lantern-easy": {
+      "hash": "11cea852ef8959ce4f3fcdbe9e9602e31f14be53",
+      "regionCount": 41,
+      "backgroundRegion": 14,
+      "bgRatio": 0.2641,
+      "optionalRegionCount": 4,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "41 vùng, ngoài khoảng 10–35 của mức easy"
+      ],
+      "ms": 0
+    },
+    "vietnam-tet-medium": {
+      "hash": "701aafb0f3bcf5bce2f83ddfe99f5f1b407d36e5",
+      "regionCount": 106,
+      "backgroundRegion": 1,
+      "bgRatio": 0.1473,
+      "optionalRegionCount": 209,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "106 vùng, ngoài khoảng 30–90 của mức medium"
+      ],
+      "ms": 0
+    },
+    "animals-bee-easy": {
+      "hash": "0e30839423a915036e94c742d7004a2fd66c660e",
+      "regionCount": 16,
+      "backgroundRegion": 1,
+      "bgRatio": 0.6567,
+      "optionalRegionCount": 12,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 962
+    },
+    "animals-butterfly-medium": {
+      "hash": "9225a2b2b924fe41e0dae68c441ce29296bb768d",
+      "regionCount": 112,
+      "backgroundRegion": 1,
+      "bgRatio": 0.3327,
+      "optionalRegionCount": 61,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "112 vùng, ngoài khoảng 30–90 của mức medium"
+      ],
+      "ms": 1010
+    },
+    "animals-chicken-medium": {
+      "hash": "a5723e98d76a07d44fed6f74e5eaf6b7c8136a8a",
+      "regionCount": 96,
+      "backgroundRegion": 77,
+      "bgRatio": 0.242,
+      "optionalRegionCount": 84,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "96 vùng, ngoài khoảng 30–90 của mức medium"
+      ],
+      "ms": 921
+    },
+    "animals-cow-easy": {
+      "hash": "20474c02e17461ef1438a6215f120beefe9f70aa",
+      "regionCount": 23,
+      "backgroundRegion": 1,
+      "bgRatio": 0.6249,
+      "optionalRegionCount": 12,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 805
+    },
+    "animals-duck-easy": {
+      "hash": "d3f7ef0474bf4ef38078b8bc7fe39cc43fa37b2a",
+      "regionCount": 7,
+      "backgroundRegion": 1,
+      "bgRatio": 0.6701,
+      "optionalRegionCount": 2,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "7 vùng, ngoài khoảng 10–35 của mức easy"
+      ],
+      "ms": 804
+    },
+    "animals-elephant-easy": {
+      "hash": "1908d2943feb849a75f04f05e7fd931560529969",
+      "regionCount": 9,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5796,
+      "optionalRegionCount": 21,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "9 vùng, ngoài khoảng 10–35 của mức easy"
+      ],
+      "ms": 748
+    },
+    "animals-fox-medium": {
+      "hash": "4b4a457bbad71ff1ab7b417db6cd1142e35169a5",
+      "regionCount": 55,
+      "backgroundRegion": 1,
+      "bgRatio": 0.2995,
+      "optionalRegionCount": 20,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 798
+    },
+    "animals-frog-medium": {
+      "hash": "5fbc4f3b7b608f457555c24121944cbd94faef6a",
+      "regionCount": 76,
+      "backgroundRegion": 1,
+      "bgRatio": 0.2872,
+      "optionalRegionCount": 21,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 792
+    },
+    "animals-giraffe-easy": {
+      "hash": "8b376e7d1b20c3c450d5ce4f3701e30c0df58019",
+      "regionCount": 24,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5956,
+      "optionalRegionCount": 5,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 782
+    },
+    "animals-horse-easy": {
+      "hash": "3ff147ba7e277c4ba4acee3cc33817ee7af9155a",
+      "regionCount": 23,
+      "backgroundRegion": 1,
+      "bgRatio": 0.4467,
+      "optionalRegionCount": 5,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 751
+    },
+    "animals-lion-easy": {
+      "hash": "9077b5c6f097b9034315e810bc61a4291e0ee75d",
+      "regionCount": 10,
+      "backgroundRegion": 1,
+      "bgRatio": 0.4788,
+      "optionalRegionCount": 7,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 761
+    },
+    "animals-monkey-easy": {
+      "hash": "5b1cc241bc89c04a953466b61126e049dfc1dfff",
+      "regionCount": 19,
+      "backgroundRegion": 3,
+      "bgRatio": 0.5868,
+      "optionalRegionCount": 10,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 792
+    },
+    "animals-owl-medium": {
+      "hash": "ebaf137f07acf08b81ea2208404a1108097cfe02",
+      "regionCount": 55,
+      "backgroundRegion": 2,
+      "bgRatio": 0.1955,
+      "optionalRegionCount": 40,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 802
+    },
+    "animals-panda-easy": {
+      "hash": "2684c7c9ab66f18b120c75298fe1bf920bf89c27",
+      "regionCount": 21,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5612,
+      "optionalRegionCount": 14,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 796
+    },
+    "animals-pig-easy": {
+      "hash": "e1d659607f5653c725c1611c3e44a7afccdb2e1a",
+      "regionCount": 14,
+      "backgroundRegion": 1,
+      "bgRatio": 0.4674,
+      "optionalRegionCount": 14,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 818
+    },
+    "animals-puppy-easy": {
+      "hash": "96d6cdf553a8291e2e2f44857c86d3c7551b040e",
+      "regionCount": 13,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5,
+      "optionalRegionCount": 5,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 759
+    },
+    "animals-rabbit-easy": {
+      "hash": "9fd06e527c8c0dd29463b46fc6cca35a883b1359",
+      "regionCount": 8,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5085,
+      "optionalRegionCount": 8,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "8 vùng, ngoài khoảng 10–35 của mức easy"
+      ],
+      "ms": 761
+    },
+    "animals-turtle-medium": {
+      "hash": "8ccfa40b9cab1f688919623934a5a996458f09d3",
+      "regionCount": 58,
+      "backgroundRegion": 1,
+      "bgRatio": 0.3121,
+      "optionalRegionCount": 64,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 791
+    },
+    "sea-clownfish-easy": {
+      "hash": "ac6d6ed4ebcb2608d695007024e01706738c02c3",
+      "regionCount": 26,
+      "backgroundRegion": 7,
+      "bgRatio": 0.3889,
+      "optionalRegionCount": 15,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 767
+    },
+    "sea-clownfish-medium": {
+      "hash": "1610bfe1e01e90156e84da5a328afd5a601478ce",
+      "regionCount": 76,
+      "backgroundRegion": 1,
+      "bgRatio": 0.4449,
+      "optionalRegionCount": 39,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 793
+    },
+    "sea-coral-reef-2-medium": {
+      "hash": "3d2a7698aba6e0001f0dc02548ccb5fca8872add",
+      "regionCount": 89,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5676,
+      "optionalRegionCount": 119,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 812
+    },
+    "sea-coral-reef-easy": {
+      "hash": "c67046acc94c1c584445cf0663f5f746d639f5cf",
+      "regionCount": 15,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5942,
+      "optionalRegionCount": 6,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 778
+    },
+    "sea-crab-medium": {
+      "hash": "187342b4663af6c368b4e020b3815f34b80db34b",
+      "regionCount": 74,
+      "backgroundRegion": 19,
+      "bgRatio": 0.3092,
+      "optionalRegionCount": 51,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 794
+    },
+    "sea-dolphin-easy": {
+      "hash": "97da739d4609cd14275d7039cdc51eac094f6ed7",
+      "regionCount": 6,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5723,
+      "optionalRegionCount": 5,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "6 vùng, ngoài khoảng 10–35 của mức easy"
+      ],
+      "ms": 756
+    },
+    "sea-dolphin-medium": {
+      "hash": "168b40e43a51f0b5fd02a3255523ff4ade8c1f62",
+      "regionCount": 18,
+      "backgroundRegion": 1,
+      "bgRatio": 0.3845,
+      "optionalRegionCount": 29,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "18 vùng, ngoài khoảng 30–90 của mức medium"
+      ],
+      "ms": 768
+    },
+    "sea-octopus-easy": {
+      "hash": "e188cacba15208d740452c3ddb58e16d2f08b7e8",
+      "regionCount": 7,
+      "backgroundRegion": 1,
+      "bgRatio": 0.6593,
+      "optionalRegionCount": 97,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "7 vùng, ngoài khoảng 10–35 của mức easy"
+      ],
+      "ms": 791
+    },
+    "sea-octopus-medium": {
+      "hash": "a651e45b2300ce7158ec456d667f18b37e42b131",
+      "regionCount": 45,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5229,
+      "optionalRegionCount": 158,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 774
+    },
+    "sea-seahorse-easy": {
+      "hash": "8f5c4c8efb066b8b5f12a7c28b5c4c8f1a66cf02",
+      "regionCount": 12,
+      "backgroundRegion": 1,
+      "bgRatio": 0.7491,
+      "optionalRegionCount": 3,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "vùng nền chiếm 75% (> 70%): có thể hở nét"
+      ],
+      "ms": 754
+    },
+    "sea-seahorse-medium": {
+      "hash": "0ec56f0f64391158ee09b9a6d4c264688a08b68a",
+      "regionCount": 72,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5105,
+      "optionalRegionCount": 73,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 818
+    },
+    "sea-shark-easy": {
+      "hash": "9948725a7d1344bb6614805e1a60daf46939f43f",
+      "regionCount": 7,
+      "backgroundRegion": 1,
+      "bgRatio": 0.6923,
+      "optionalRegionCount": 8,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "7 vùng, ngoài khoảng 10–35 của mức easy"
+      ],
+      "ms": 786
+    },
+    "sea-shell-medium": {
+      "hash": "cb3841ef84a812fd1326908d30bd71169877803c",
+      "regionCount": 39,
+      "backgroundRegion": 9,
+      "bgRatio": 0.3312,
+      "optionalRegionCount": 28,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 834
+    },
+    "sea-starfish-easy": {
+      "hash": "35812cf0bb289a311c8e432ee4d040273f374f3e",
+      "regionCount": 19,
+      "backgroundRegion": 1,
+      "bgRatio": 0.6671,
+      "optionalRegionCount": 10,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 779
+    },
+    "sea-starfish-medium": {
+      "hash": "b862633b6fc4df2172f555e8fde7241b80a38670",
+      "regionCount": 71,
+      "backgroundRegion": 1,
+      "bgRatio": 0.2843,
+      "optionalRegionCount": 66,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 824
+    },
+    "sea-submarine-easy": {
+      "hash": "166f5d7e27cf9c299cfd7ecfc281a675c03472b8",
+      "regionCount": 24,
+      "backgroundRegion": 1,
+      "bgRatio": 0.6184,
+      "optionalRegionCount": 5,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 789
+    },
+    "vehicles-airplane-easy": {
+      "hash": "faa5fc2e042149eb82d244a12fadaabd71b13257",
+      "regionCount": 28,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5863,
+      "optionalRegionCount": 16,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 791
+    },
+    "vehicles-airplane-medium": {
+      "hash": "2af603ef40500454b4e95e0fc07fa423dec616c7",
+      "regionCount": 46,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5979,
+      "optionalRegionCount": 23,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 800
+    },
+    "vehicles-ambulance-easy": {
+      "hash": "27ce4bd17259be85120a29379b88d80c74064705",
+      "regionCount": 25,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5255,
+      "optionalRegionCount": 16,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 806
+    },
+    "vehicles-ambulance-medium": {
+      "hash": "d85a5a6fd1837a887f0510d572607a1fb15b7cb5",
+      "regionCount": 97,
+      "backgroundRegion": 1,
+      "bgRatio": 0.2692,
+      "optionalRegionCount": 50,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "97 vùng, ngoài khoảng 30–90 của mức medium"
+      ],
+      "ms": 826
+    },
+    "vehicles-boat-easy": {
+      "hash": "0d0861a0cf65fb1479ceb450a737ce440acdfb97",
+      "regionCount": 18,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5911,
+      "optionalRegionCount": 4,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 775
+    },
+    "vehicles-boat-medium": {
+      "hash": "3a78e500289bcea31b7baec216c0092e75e802c3",
+      "regionCount": 58,
+      "backgroundRegion": 1,
+      "bgRatio": 0.367,
+      "optionalRegionCount": 71,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 821
+    },
+    "vehicles-bus-easy": {
+      "hash": "8b82c128108b6be8060fefb9ab21bc91148613e4",
+      "regionCount": 30,
+      "backgroundRegion": 1,
+      "bgRatio": 0.502,
+      "optionalRegionCount": 16,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 780
+    },
+    "vehicles-car-medium": {
+      "hash": "5534a8b1bc1eb61f13ddb47cacbfd34b1b2b994c",
+      "regionCount": 74,
+      "backgroundRegion": 1,
+      "bgRatio": 0.2966,
+      "optionalRegionCount": 96,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 812
+    },
+    "vehicles-fire-truck-easy": {
+      "hash": "9de3842ad36751a7c10250d36548111be941024a",
+      "regionCount": 40,
+      "backgroundRegion": 1,
+      "bgRatio": 0.4958,
+      "optionalRegionCount": 40,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "40 vùng, ngoài khoảng 10–35 của mức easy"
+      ],
+      "ms": 832
+    },
+    "vehicles-fire-truck-medium": {
+      "hash": "d545cbb3363eea954dcee8e3781f27fccfb7dac1",
+      "regionCount": 102,
+      "backgroundRegion": 1,
+      "bgRatio": 0.2583,
+      "optionalRegionCount": 172,
+      "noiseMerged": 1,
+      "lineSize": 2048,
+      "warnings": [
+        "102 vùng, ngoài khoảng 30–90 của mức medium"
+      ],
+      "ms": 822
+    },
+    "vehicles-helicopter-easy": {
+      "hash": "f78d439f921bb011d5fddd67c748d3822999ecd1",
+      "regionCount": 21,
+      "backgroundRegion": 1,
+      "bgRatio": 0.6096,
+      "optionalRegionCount": 16,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 792
+    },
+    "vehicles-helicopter-medium": {
+      "hash": "60afe06808ddb7f6e7e1a42f7990a661d5b477e0",
+      "regionCount": 54,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5449,
+      "optionalRegionCount": 23,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 854
+    },
+    "vehicles-motorbike-easy": {
+      "hash": "5e66b2e7e26ab742ad32f398e013c110061918b3",
+      "regionCount": 32,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5687,
+      "optionalRegionCount": 27,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 829
+    },
+    "vehicles-motorbike-medium": {
+      "hash": "fcea9799f868d61da2512f96d349ff0afed36ac1",
+      "regionCount": 117,
+      "backgroundRegion": 1,
+      "bgRatio": 0.2848,
+      "optionalRegionCount": 116,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "117 vùng, ngoài khoảng 30–90 của mức medium"
+      ],
+      "ms": 854
+    },
+    "vehicles-rocket-easy": {
+      "hash": "d7f01faa67b756329dbb2c0eb6b7ef10cea09b35",
+      "regionCount": 14,
+      "backgroundRegion": 1,
+      "bgRatio": 0.6604,
+      "optionalRegionCount": 7,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 804
+    },
+    "vehicles-rocket-medium": {
+      "hash": "495e6b195f4e1554e043b9873aa2fae77605c39c",
+      "regionCount": 70,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5288,
+      "optionalRegionCount": 23,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 793
+    },
+    "vehicles-tractor-easy": {
+      "hash": "0b30ef12cd75441f6552676bf0657300a9c6bedd",
+      "regionCount": 31,
+      "backgroundRegion": 1,
+      "bgRatio": 0.5398,
+      "optionalRegionCount": 22,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [],
+      "ms": 783
+    },
+    "vehicles-tractor-medium": {
+      "hash": "d05c0205755ce994cf98ab560ba5051347073006",
+      "regionCount": 131,
+      "backgroundRegion": 1,
+      "bgRatio": 0.2785,
+      "optionalRegionCount": 140,
+      "noiseMerged": 0,
+      "lineSize": 2048,
+      "warnings": [
+        "131 vùng, ngoài khoảng 30–90 của mức medium"
+      ],
+      "ms": 824
+    }
+  }
+}
